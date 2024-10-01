@@ -1,11 +1,20 @@
-# mine første moduler
+# mine første moduler 2
 
-Modul 1 header
-header skal oprette et dom element i header: en H1 med dit navn
+beskrivelse af siden
 
-modul 2 nav
-nav skal indeholde et input felt og en send knap
-send knappen skal sende værdi fra input til et module, der opdater main med den tekst der sendes.
+i header skal der stå "mine første moduler i et H1 tag
 
-modul 3
-et modul der modtager tekst fra modul 1 og viser det i HTML i elementet main
+i navigation skal der være en ul-li navigation der linker til følgende sider i nye vinduer:
+"mdn" - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+"W3Schools" - https://www.w3schools.com/js/js_modules.asp
+
+i main content skal der være en kort beskrivelse af hvad et module er, og denne video skal være synlig på siden: https://youtu.be/qgRUr-YUk1Q?si=Z3ePgvhLH_cekl-N
+
+i footeren skal der stå dit navn
+
+---
+
+alle elementer skal fyldes med HTML genereret fra JavaScript, og hvert hoved element skal komme fra et javascript module.
+
+Styling er optional, men hvis du er færdig før tid.. så skal der styles

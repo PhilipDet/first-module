@@ -1,9 +1,10 @@
 // du må kun bruge importerede moduler her...
-import moduleOne from "./modules/moduleOne/moduleOne.js";
-import { headerText } from "./modules/moduleOne/moduleOne.js";
-import moduleTwo from "./modules/moduleTwo/moduleTwo.js";
-import moduleThree from "./modules/moduleThree/moduleThree.js";
+import header from "./modules/header/header.js";
+import navigation from "./modules/navigation/navigation.js";
+import main from "./modules/main/main.js";
+import footer from "./modules/footer/footer.js";
 
-moduleOne();
-moduleTwo();
-moduleThree(headerText);
+header();
+navigation();
+main();
+footer();
